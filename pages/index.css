@@ -57,7 +57,9 @@
 @import url(../blocks/rotation/__kaufman/rotation__kaufman.css);
 @import url(../blocks/content/resources/resources.css);
 @import url(../blocks/content/resources/__logo-zone/resources__logo-zone.css);
-@import url(../blocks/content/resources/__logo-zone/__logo/resources__logo.css);
+@import url(../blocks/content/resources/__logo-zone/__list-row/resources__list-row.css);
+@import url(../blocks/content/resources/__logo-zone/__list-row/__logo/resources__logo.css);
+@import url(../blocks/content/resources/__logo-zone/__list-row/__link/resources__link.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/logo/_pace_footer/logo_place_footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
